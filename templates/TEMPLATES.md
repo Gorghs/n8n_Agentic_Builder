@@ -1,0 +1,1 @@
+### This directory is for curated workflow templates that can be reused across different projects.
