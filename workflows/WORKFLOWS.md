@@ -1,0 +1,1 @@
+### Keep your outputted workflow JSON files here. They are ignored by git to ensure your credentials and private details are not exposed.
